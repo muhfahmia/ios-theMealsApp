@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (5.8.1)
+  - Core (1.0.0)
+  - ObjectMapper (4.2.0)
+  - SDWebImage (5.18.7):
+    - SDWebImage/Core (= 5.18.7)
+  - SDWebImage/Core (5.18.7)
+
+DEPENDENCIES:
+  - Alamofire
+  - Core (from `https://github.com/muhfahmia/ios-coreMealsApp.git`, tag `1.0.0`)
+  - ObjectMapper
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ObjectMapper
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  Core:
+    :git: https://github.com/muhfahmia/ios-coreMealsApp.git
+    :tag: 1.0.0
+
+CHECKOUT OPTIONS:
+  Core:
+    :git: https://github.com/muhfahmia/ios-coreMealsApp.git
+    :tag: 1.0.0
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  Core: ce9dd5ed527171a0f4c47dbc80f175f75f0a4b5e
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  SDWebImage: f9258c58221ed854cfa0e2b80ee4033710b1c6d3
+
+PODFILE CHECKSUM: 28e5799fe71404c5a809516ee8110a40e1e41113
+
+COCOAPODS: 1.11.3
