@@ -10,7 +10,7 @@
 [![Codemagic build status](https://api.codemagic.io/apps/65802fe104a97d6162bf28b0/ios-project-debug/status_badge.svg)](https://codemagic.io/apps/65802fe104a97d6162bf28b0/ios-project-debug/latest_build)
 
 <p>
-## <a name="#"></a> 🤖 Introduction
+<a name="#"></a> 🤖 Introduction
 
 The Meals App built with some of the interesting iOS tech such as **Clean Architecture**, **Depedency Injection**, **MVVM Architecture Pattern**, Beautiful UI built with **UIKIT**, **Core module with Generics Protocol**, **Cocoapods Modularization** and **Deployment CI with Codemagic!**   
 </p
